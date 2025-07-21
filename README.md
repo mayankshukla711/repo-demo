@@ -1,4 +1,4 @@
 # repo-demo
 This is my first Git Repository
 <br>
-Author - Mayank Shukla
+Author - Mr. Mayank Shukla
